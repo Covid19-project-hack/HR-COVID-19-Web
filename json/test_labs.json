@@ -1,0 +1,130 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "name": "Pt B D Sharma Post Graduate Inst Of Med Sciences, Rohtak",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "2",
+            "name": " Command Hospital, Chandimandir",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "3",
+            "name": " BPS Govt Medical College, Sonipat",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "4",
+            "name": " ESIC Hospital, Faridabad",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "5",
+            "name": " Kalpana Chawla Govt Medical College, Karnal",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "6",
+            "name": " Govt Civil Hospital, Panchkula",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "7",
+            "name": " ICAR National Research Centre on Equines, Hisar",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "8",
+            "name": " Translational Health Science Technology Institute, Faridabad",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "9",
+            "name": " SHKM, Govt Medical College, Mewat",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "10",
+            "name": " District Civil Hospital, Ambala",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "11",
+            "name": " Civil Hospital, Gurugram",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "12",
+            "name": " Maharaj Agrasen Medical College, Agroha, Hisar ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "13",
+            "name": "Strand Life Sciences, A , Sector , Gurugram",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "14",
+            "name": " SRL Limited, GP , Sector , Gurugram",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "15",
+            "name": " Modern Diagnostic Research Centre Lab, , JAwahar Nagar Gurgaon",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "16",
+            "name": " Core Diagnostics Pvt Ltd, Udyog Vihar Phase , Gurgaon",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "17",
+            "name": " MolQ Laboratory, Plot , Sector P , Electronic city, Udyog Vihar, Phase IV, Gurgaon",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "18",
+            "name": " Pathkind Diagnostics Pvt Ltd, Plot , Phase , Udyog Vihar, Sec , Gurgaon",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "19",
+            "name": " Department of Pathology and Laboratory Medicine, Medanta The Medicity, Sector , Gurgaon ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "20",
+            "name": " Apex Diagnostics Jacaranda Marg , Dlf City Phase , Gurgaon",
+            "type": "Private",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "21",
+            "name": "IRL, Haryana Govt. Public Health Laboratory, Karnal",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        }
+    ]
+}
